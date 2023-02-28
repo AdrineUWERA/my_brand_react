@@ -43,7 +43,7 @@ function App() {
       <Routes>
         <Route exact path="/ad-messages" element={<AllMessages />}/> 
       </Routes>
-      <Footer/>
+      {/* <Footer/> */}
     </Router>
   </div>;
 }

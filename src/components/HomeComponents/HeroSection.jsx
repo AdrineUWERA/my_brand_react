@@ -1,7 +1,9 @@
+import "../../css/HomePage.css";
+
 const HeroSection = () => {
-    return ( <div>
-        Hero section
-    </div> );
-}
- 
+  return (
+    <div></div>
+  );
+};
+
 export default HeroSection;
